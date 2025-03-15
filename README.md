@@ -57,6 +57,6 @@ I’m a **Physics graduate** and current **MSc Computer Science student** at the
 ---
 
 #### **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalamin21&show_icons=true&theme=dark)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalamin21&layout=compact&theme=dark)  
