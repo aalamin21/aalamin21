@@ -29,19 +29,6 @@ I’m a **Physics graduate** and current **MSc Computer Science student** at the
 
 ---
 
-#### **Projects**  
-
-**1. Particle Simulation Using Markov-Chain Monte Carlo Methods**  
-- Developed a particle simulation in a team environment, applying advanced computational methods.  
-- Analyzed large datasets and visualized results using **Matplotlib**.  
-- Gained exposure to High-Performance Computing and parallel processing techniques.  
-
-**2. Harvard University CS50: Introduction to Artificial Intelligence**  
-- Applied machine learning algorithms, including decision trees and natural language processing, to analyze and model complex data.  
-- Developed search and optimization solutions, enhancing problem-solving skills in AI-driven environments.  
-
----
-
 #### **Education**  
 - **MSc in Computer Science** – University of Birmingham (Current)  
 - **BSc in Physics with International Study** – University of Birmingham (Class II, Division I)  
