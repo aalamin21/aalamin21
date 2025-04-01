@@ -39,7 +39,6 @@ I’m a **Physics graduate** and current **MSc Computer Science student** at the
 #### **Connect with Me**  
 - 📧 Email: 12aalamin@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/a-alamin](https://linkedin.com/in/a-alamin)  
-- 🌐 Portfolio: [Your Portfolio Link] (if applicable)  
 
 ---
 
