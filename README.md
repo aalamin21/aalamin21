@@ -3,21 +3,6 @@
 #### **About Me**  
 I’m a **Physics graduate** and current **MSc Computer Science student** at the University of Birmingham, passionate about software development, data analysis, and artificial intelligence. With a strong foundation in **Python, machine learning, and computational methods**, I enjoy solving complex problems and building innovative solutions.  
 
-- 🔭 I’m currently working on:  
-  - Developing AI models and data-driven solutions.  
-  - Exploring natural language processing and generative AI.  
-- 🌱 I’m currently learning:  
-  - Advanced machine learning techniques.  
-  - Microsoft Azure AI Studio and cloud-based AI tools.  
-- 👯 I’m looking to collaborate on:  
-  - Open-source AI/ML projects.  
-  - Educational tools and applications.  
-- 💬 Ask me about:  
-  - Python, TensorFlow, Scikit-learn, and data visualization.  
-  - My experience in AI projects and computational physics.  
-- ⚡ Fun fact:  
-  - I was part of the University of Birmingham American Football Team and played in the **Xplosion event**, which hosted over 2,000 spectators!  
-
 ---
 
 #### **Technical Skills**  
